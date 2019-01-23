@@ -1,0 +1,283 @@
+[
+    [
+        "D:\\AccountField\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "D:\\AccountField\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548224979711,
+            "changeTime": 1548224979711,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\AccountField\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "D:\\AccountField\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548224979711,
+            "changeTime": 1548224979711,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\AccountField\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "D:\\AccountField\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548225663466,
+            "changeTime": 1548225663466,
+            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb"
+        }
+    ],
+    [
+        "D:\\AccountField\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "D:\\AccountField\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548224979712,
+            "changeTime": 1548224979712,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\AccountField",
+        {
+            "state": "n",
+            "sourcePath": "D:\\AccountField",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548225156043,
+            "changeTime": 1548225156043,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\AccountField\\force-app\\main\\default\\objects\\Account\\fields\\isTest__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\AccountField\\force-app\\main\\default\\objects\\Account\\fields\\isTest__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 324,
+            "modifiedTime": 1548225663342,
+            "changeTime": 1548225663342,
+            "contentHash": "38d5d6e0e8d65bafd15b8c905da569f2edfda7e0"
+        }
+    ],
+    [
+        "D:\\AccountField\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\AccountField\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9628,
+            "modifiedTime": 1548225663373,
+            "changeTime": 1548225663373,
+            "contentHash": "d82b87ad0546aa92e1dc3366fcd983c6c9a54f41"
+        }
+    ],
+    [
+        "D:\\AccountField\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\AccountField\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9628,
+            "modifiedTime": 1548225663386,
+            "changeTime": 1548225663386,
+            "contentHash": "04ef7b1f6e57abf12acdb5632ec06a45c090ce53"
+        }
+    ],
+    [
+        "D:\\AccountField\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\AccountField\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9580,
+            "modifiedTime": 1548225663404,
+            "changeTime": 1548225663404,
+            "contentHash": "10f2902cd71fc13baf4c768b9a2128ca9cc9b929"
+        }
+    ],
+    [
+        "D:\\AccountField\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\AccountField\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9580,
+            "modifiedTime": 1548225663413,
+            "changeTime": 1548225663413,
+            "contentHash": "155431d30cadb8f56ef70653c22453567b7b762f"
+        }
+    ],
+    [
+        "D:\\AccountField\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\AccountField\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18110,
+            "modifiedTime": 1548225663431,
+            "changeTime": 1548225663431,
+            "contentHash": "87c072b3ae2db65a6dd6bb47fca020dbddd0d28a"
+        }
+    ],
+    [
+        "D:\\AccountField\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\AccountField\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4586,
+            "modifiedTime": 1548225663450,
+            "changeTime": 1548225663450,
+            "contentHash": "b54e7c1a763b5bce27d4db1c1ef4a916e99a5fa9"
+        }
+    ],
+    [
+        "D:\\AccountField\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\AccountField\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4590,
+            "modifiedTime": 1548225663466,
+            "changeTime": 1548225663466,
+            "contentHash": "4807a05ccb8ba9ebe08e36691c3d4290cc396696"
+        }
+    ],
+    [
+        "D:\\AccountField\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\AccountField\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4926,
+            "modifiedTime": 1548225663466,
+            "changeTime": 1548225663466,
+            "contentHash": "19a05cbb85b7e0393c5b1bdaea45429bda096d17"
+        }
+    ],
+    [
+        "D:\\AccountField\\force-app\\main\\default\\permissionsets\\isTest_Permission.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\AccountField\\force-app\\main\\default\\permissionsets\\isTest_Permission.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 370,
+            "modifiedTime": 1548225663466,
+            "changeTime": 1548225663466,
+            "contentHash": "ad8b9018b318cefde7b489ae550dd0f2684e59d5"
+        }
+    ],
+    [
+        "D:\\AccountField\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "D:\\AccountField\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548225663342,
+            "changeTime": 1548225663342,
+            "contentHash": "7afef5bb1cdc2ee80c3f0a353f4df1a4878b5c65"
+        }
+    ],
+    [
+        "D:\\AccountField\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "D:\\AccountField\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548225663326,
+            "changeTime": 1548225663326,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "D:\\AccountField\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "D:\\AccountField\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548225663326,
+            "changeTime": 1548225663326,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "D:\\AccountField\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "D:\\AccountField\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548225663413,
+            "changeTime": 1548225663413,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+        }
+    ],
+    [
+        "D:\\AccountField\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "D:\\AccountField\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548225663466,
+            "changeTime": 1548225663466,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ],
+    [
+        "D:\\AccountField\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "D:\\AccountField\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1548225663466,
+            "changeTime": 1548225663466,
+            "contentHash": "0c25e37b492689fc6130f488a70eb6b112cf7b29"
+        }
+    ]
+]
